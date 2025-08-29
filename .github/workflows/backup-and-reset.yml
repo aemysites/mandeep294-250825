@@ -137,8 +137,26 @@ jobs:
           
           # Check if we found the commit
           if [ -z "$target" ]; then
-            echo "❌ No commit found ending with 'from aemysites/issue-1'"
-            exit 1
+            echo "⚠️ No commit found ending with 'from aemysites/issue-1'"
+            
+            # Check for fallback commit hash from repository variable
+            fallback_commit="${{ vars.FALLBACK_RESET_COMMIT }}"
+            if [ -n "$fallback_commit" ]; then
+              echo "🔄 Using fallback commit from repository variable: $fallback_commit"
+              
+              # Verify the fallback commit exists
+              if git cat-file -e "$fallback_commit" 2>/dev/null; then
+                target="$fallback_commit"
+                echo "✅ Fallback commit verified and will be used"
+              else
+                echo "❌ Fallback commit '$fallback_commit' does not exist in repository"
+                exit 1
+              fi
+            else
+              echo "❌ No fallback commit hash found in repository variable 'FALLBACK_RESET_COMMIT'"
+              echo "Please set the repository variable 'FALLBACK_RESET_COMMIT' with a valid commit hash"
+              exit 1
+            fi
           fi
           
           echo "Reset target: $target"
