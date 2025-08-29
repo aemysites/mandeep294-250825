@@ -1,0 +1,22 @@
+{
+  "originUrl": "https://beta-s6web-prod-skyplus6e.goindigo.in",
+  "aborted": false,
+  "urls": [
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "source": "MANUAL",
+      "targetPath": "/indian-destinations/delhi",
+      "id": "5cb71fd68d6725cf9445436fb02627fe45f78440"
+    }
+  ],
+  "lastCrawled": null,
+  "crawlOptions": {
+    "limit": 100,
+    "strategy": "manual",
+    "strategiesAttempted": [
+      "MANUAL"
+    ]
+  },
+  "extractionErrors": [],
+  "errorCountMessage": "none"
+}
