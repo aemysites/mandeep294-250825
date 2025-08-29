@@ -1,0 +1,744 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+          "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+          "uuid": "5cb71fd6-00-3a8584d0f1e2b03d0dee50c532054ba4e78528b5",
+          "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ],
+      "styles": {
+        "height": 60
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+          "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+          "uuid": "5cb71fd6-33-39be441317c41ee24bc849a58ec00529c08291eb",
+          "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[3]"
+        }
+      ],
+      "styles": {
+        "background": "rgba(0, 0, 0, 0) linear-gradient(rgb(0, 0, 153), rgb(0, 0, 92)) repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "header",
+      "cluster": 1,
+      "source": "Header",
+      "target": "Header (header1)",
+      "key": "header1",
+      "instances": [
+        {
+          "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+          "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+          "uuid": "5cb71fd6-00-3a8584d0f1e2b03d0dee50c532054ba4e78528b5",
+          "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 2,
+      "instances": [
+        {
+          "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+          "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+          "uuid": "5cb71fd6-02-94a941038f704458dcf1b67880ca61e8608360fa",
+          "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 3,
+      "source": "Carousel",
+      "target": "Carousel (carousel3)",
+      "key": "carousel3",
+      "instances": [
+        {
+          "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+          "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+          "uuid": "5cb71fd6-03-4ddda9f674db34ab5cdaf3b62a80ecd241d3c39e",
+          "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]",
+          "differences": [
+            {
+              "element_id": "html__body__main__div_2__div__div__div_2__div__div__div__div__div__section__div__div_3__div__div",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Delhi Photo Credits: Santosh kumar"
+                }
+              ],
+              "dissimilarity_score": -0.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 4,
+      "source": "Columns",
+      "target": "Columns (columns4)",
+      "key": "columns4",
+      "instances": [
+        {
+          "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+          "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+          "uuid": "5cb71fd6-04-66a8914591701e592eda646e0b21e68d03aeffc6",
+          "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1",
+          "differences": [
+            {
+              "element_id": "html__body__main__div_2__div__div__div_2__div__div__div__div__div_2__div__div__div__div__div",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "source": "Columns",
+      "target": "Columns (columns5)",
+      "key": "columns5",
+      "instances": [
+        {
+          "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+          "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+          "uuid": "5cb71fd6-05-4346d22cbeab7d3d8fe878f3862d3dfb7c6a0d8c",
+          "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+          "section": "section-1",
+          "differences": [
+            {
+              "element_id": "html__body__main__div_2__div__div__div_2__div__div__div__div__div_2__div__div__div__div__div_2__div__div",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 6,
+      "source": "Columns",
+      "target": "Columns (columns6)",
+      "key": "columns6",
+      "instances": [
+        {
+          "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+          "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+          "uuid": "5cb71fd6-06-bd32759b5e37b20cf30189249f694c499f75646e",
+          "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]",
+          "section": "section-1",
+          "differences": [
+            {
+              "element_id": "html__body__main__div_2__div__div__div_2__div__div__div__div__div_2__div__div__div__div__div_2__div__div_2",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Table",
+      "cluster": 7,
+      "source": "Table",
+      "target": "Table (table7)",
+      "key": "table7",
+      "instances": [
+        {
+          "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+          "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+          "uuid": "5cb71fd6-07-d49850bc43fb7dc35f6c9cd760314f52c4d7e48b",
+          "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]",
+          "section": "section-1",
+          "differences": [
+            {
+              "element_id": "html__body__main__div_2__div__div__div_2__div__div__div__div__div_2__div__div__div__div__div_2__div__div_3",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 8,
+      "source": "Cards",
+      "target": "Cards (cards8)",
+      "key": "cards8",
+      "instances": [
+        {
+          "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+          "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+          "uuid": "5cb71fd6-13-7ce210e779277ab3ecc2d686304baa4feb56c8e1",
+          "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]",
+          "section": "section-2",
+          "differences": [
+            {
+              "element_id": "html__body__main__div_2__div__div__div_2__div__div__div__div__div_6",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Places to visit "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Trending Safdarjung Tomb Historical elegance, Mughal heritage, soaring height, and intricate carvings. Exploration time: 1-2 hours Qutub Minar Exploration time: 1-2 hours Humayun\u2019s Tomb Exploration time: 1-2 hours Lotus Temple Exploration time: 1 hour Jantar Mantar Exploration time: 2 hour Rashtrapati Bhawan Exploration time: 2-3 hours India Gate Exploration time: 1 hours Red Fort Exploration time: 1 hours Akshardham Temple Exploration time: 3-4 hours"
+                },
+                {
+                  "change_type": "deletion",
+                  "text": " View All 9 places View less"
+                }
+              ],
+              "dissimilarity_score": 0.04
+            }
+          ],
+          "similarity_score": 0.96
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 9,
+      "source": "Cards",
+      "target": "Cards (cards9)",
+      "key": "cards9",
+      "instances": [
+        {
+          "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+          "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+          "uuid": "5cb71fd6-17-ba21365e1a7d8bea45d5b9516f0a93d2750a3e5b",
+          "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "differences": [
+            {
+              "element_id": "html__body__main__div_2__div__div__div_2__div__div__div__div__div_7__div__div_3__div__div__div__div__div__div__div_3",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "4/5"
+                },
+                {
+                  "change_type": "deletion",
+                  "text": " ("
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "("
+                },
+                {
+                  "change_type": "equal",
+                  "text": "926 reviews) The LaLiT New Delhi Delhi \u20b9 11,805 /night Incl of taxes & fees Book 4.2/5"
+                },
+                {
+                  "change_type": "deletion",
+                  "text": " ("
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "("
+                },
+                {
+                  "change_type": "equal",
+                  "text": "729 reviews) Bloomrooms @ New Delhi Railway Station Delhi \u20b9 2,728 /night Incl of taxes & fees Book 3.8/5"
+                },
+                {
+                  "change_type": "deletion",
+                  "text": " ("
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "("
+                },
+                {
+                  "change_type": "equal",
+                  "text": "910 reviews) Pride Plaza Hotel Aerocity New Delhi Delhi \u20b9 6,580 /night Incl of taxes & fees Book 4/5"
+                },
+                {
+                  "change_type": "deletion",
+                  "text": " ("
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "("
+                },
+                {
+                  "change_type": "equal",
+                  "text": "924 reviews) The Metropolitan Hotel and Spa New Delhi Delhi \u20b9 7,577 /night Incl of taxes & fees Book Hotel Bawa Gurgaon Delhi \u20b9 2,700 /night + \u20b9 324 Taxes & fees Book 3.2/5"
+                },
+                {
+                  "change_type": "deletion",
+                  "text": " ("
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "("
+                },
+                {
+                  "change_type": "equal",
+                  "text": "63 reviews) Hotel Diplomat Delhi \u20b9 7,847 \u20b9 6,028 /night + \u20b9 874 Taxes & fees Book 4.3/5"
+                },
+                {
+                  "change_type": "deletion",
+                  "text": " ("
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "("
+                },
+                {
+                  "change_type": "equal",
+                  "text": "53 reviews) Le ROI Express Paharganj Delhi \u20b9 1,852 /night Incl of taxes & fees Book 4.3/5"
+                },
+                {
+                  "change_type": "deletion",
+                  "text": " ("
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "("
+                },
+                {
+                  "change_type": "equal",
+                  "text": "157 reviews) Bloomrooms @ Janpath Delhi \u20b9 5,631 /night Incl of taxes & fees Book 4.1/5"
+                },
+                {
+                  "change_type": "deletion",
+                  "text": " ("
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "("
+                },
+                {
+                  "change_type": "equal",
+                  "text": "121 reviews) Park Inn by Radisson New Delhi Lajpat Nagar Delhi \u20b9 5,999 \u20b9 5,400 /night + \u20b9 648 Taxes & fees Book 4.2/5"
+                },
+                {
+                  "change_type": "deletion",
+                  "text": " ("
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "("
+                },
+                {
+                  "change_type": "equal",
+                  "text": "921 reviews) Holiday Inn New Delhi Aerocity by IHG Delhi \u20b9 7,372 /night Incl of taxes & fees Book"
+                }
+              ],
+              "dissimilarity_score": 0.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 10,
+      "source": "Cards",
+      "target": "Cards (cards10)",
+      "key": "cards10",
+      "instances": [
+        {
+          "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+          "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+          "uuid": "5cb71fd6-19-7ae5c8018322de190166848419cfdad0e934ca7a",
+          "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[5]",
+          "differences": [
+            {
+              "element_id": "html__body__main__div_2__div__div__div_2__div__div__div__div__div_7__div__div_5",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Architectural Tours Heritage Excursions Historical Site Visits Cultural Tour Street Shopping Museum Exploration Street food"
+                },
+                {
+                  "change_type": "deletion",
+                  "text": " Back"
+                }
+              ],
+              "dissimilarity_score": 0.05
+            }
+          ],
+          "similarity_score": 0.95
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 11,
+      "source": "Cards",
+      "target": "Cards (cards11)",
+      "key": "cards11",
+      "instances": [
+        {
+          "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+          "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+          "uuid": "5cb71fd6-27-80aad53c169962f723791094d5773818e4fdeccc",
+          "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[9]",
+          "differences": [
+            {
+              "element_id": "html__body__main__div_2__div__div__div_2__div__div__div__div__div_7__div__div_9",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Diwali Celebrated with grandeur and enthusiasm, the festival of lights Holi Delhi bursts with colours and laughter as streets come alive with playful water Eid-ul-Fitr Delhi embraces the spirit of Eid-ul-Fitr with prayers, feasts, and joyful Durga Puja Delhi embraces the spirit of Eid-ul-Fitr with prayers, feasts, and joyful"
+                }
+              ],
+              "dissimilarity_score": -0.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 12,
+      "source": "Columns",
+      "target": "Columns (columns12)",
+      "key": "columns12",
+      "instances": [
+        {
+          "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+          "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+          "uuid": "5cb71fd6-31-e7b29dc29e3d3f65da6219c3896d33ba47325cc2",
+          "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 13,
+      "source": "Columns",
+      "target": "Columns (columns13)",
+      "key": "columns13",
+      "instances": [
+        {
+          "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+          "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+          "uuid": "5cb71fd6-32-e6eb65e87b2cde2dcccb3158749e468917c6f0c0",
+          "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]",
+          "section": "section-3"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+      "uuid": "5cb71fd6-01-e4ff005ff11d38329025ad0caed6ccf3eab7f625",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/a[1]"
+    },
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+      "uuid": "5cb71fd6-08-34c33152fa064c0d1c7a2d93175ecafc1a587f21",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+      "uuid": "5cb71fd6-09-247eac70c2fe15cee497852045bf2a7093b0b3b6",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+      "uuid": "5cb71fd6-10-50a752eae62d95b49c324a18ca66eae86e168b42",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/ul[1]/li[2]"
+    },
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+      "uuid": "5cb71fd6-11-0e5e57595dd4bfae65fdf9a72e8b17ecd26fc487",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/ul[1]/li[3]"
+    },
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+      "uuid": "5cb71fd6-12-65cda75fa33f01b6093c0988881f0f7c24a38963",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/ul[1]/li[4]"
+    },
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+      "uuid": "5cb71fd6-14-1771008bd5a043bf6c1e32905e7631cdb3b9044c",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]"
+    },
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+      "uuid": "5cb71fd6-15-7404eceacdb211cc41be5ba8e0f21fb8e6c3c591",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+      "uuid": "5cb71fd6-16-9eea6b2ca5853d85c2cee2e47cc8f05dd1501691",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+      "uuid": "5cb71fd6-18-f1d72434ac7dc0152fa72637af7d582806085a93",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[4]"
+    },
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+      "uuid": "5cb71fd6-20-9238d7907341e60c5a9871510b83ffcd29d333d3",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[6]"
+    },
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+      "uuid": "5cb71fd6-21-40098005ae6c5c75fe3ffcd7e42b2dea9cbc55b7",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[7]/div[1]/div[1]/div[1]/span[1]/ul[1]/li[3]"
+    },
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+      "uuid": "5cb71fd6-22-67d8cbf3d9b55d11570f16c2379d3d528ac945bc",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[7]/div[1]/div[1]/div[1]/span[1]/ul[1]/li[4]"
+    },
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+      "uuid": "5cb71fd6-23-cf967c644f8a1170dd12b54002c9ef0236ef9c62",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[7]/div[1]/div[1]/div[1]/span[1]/ul[1]/li[5]"
+    },
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+      "uuid": "5cb71fd6-24-d0b0f9a40a305d4c6ccda1596e50ea89a2ff9ec3",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[7]/div[1]/div[1]/div[1]/span[1]/ul[1]/li[6]"
+    },
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+      "uuid": "5cb71fd6-25-265113f81edaf297bcea90bfcecb033fee11533c",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[7]/div[1]/div[1]/div[1]/span[1]/ul[1]/li[7]"
+    },
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+      "uuid": "5cb71fd6-26-c1af56173eeac31befd69958f3d01a32cfd261ee",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[8]"
+    },
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+      "uuid": "5cb71fd6-28-feeb781a7bb8d195139401c7f94412af382d4c2c",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[10]/div[1]/div[1]/div[1]/span[1]/ul[3]"
+    },
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+      "uuid": "5cb71fd6-29-0b497486ec212937b2302d4136a345c8c74edfa4",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[11]"
+    },
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+      "uuid": "5cb71fd6-30-82eb2484df49a9db163b9e0e3ac0d6c2d2a81c33",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "urlHash": "5cb71fd68d6725cf9445436fb02627fe45f78440",
+      "uuid": "5cb71fd6-33-39be441317c41ee24bc849a58ec00529c08291eb",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[3]",
+      "section": "section-3"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://beta-s6web-prod-skyplus6e.goindigo.in/indian-destinations/delhi.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "Back Explore"
+        },
+        {
+          "change_type": "deletion",
+          "text": " "
+        },
+        {
+          "change_type": "insertion",
+          "text": " # "
+        },
+        {
+          "change_type": "equal",
+          "text": "Copy Link Copied Delhi Photo Credits: Santosh kumar Delhi Photo Credits: Akshana Prasad Delhi Photo Credits: Chandan Mishra Delhi Photo Credits: Ekansh Mehta Delhi Photo Credits: Lalit Singh Delhi Photo Credits: Santosh kumar Delhi Photo Credits: Akshana Prasad Places To visit Places to eat Where to stay Things to do Best time to visit Shopping Festivals More reasons to visit Delhi, the bustling capital of India, holds a rich history, inclusive culture, and progressive modernity. Its ancient monuments, like the iconic Red Fort and Qutub Minar, are a testament to its storied past while its colourful markets and diverse cuisine reflect its dynamic present. Sure to be a memorable trip, Delhi tourism promises a beautiful contrast of tradition and modernity alongside its resilience and cosmopolitan atmosphere. This Delhi travel guide covers everything, from places that deserve your attention to delicious cuisine that will melt in your mouth. Let\u2019s explore the heart of India. How to reach Delhi By air: Indira Gandhi International Airport (DEL) , or Delhi Airport, is the main airport, around 16 km from the city\u2019s centre. Terminals 1 and 2 cater to domestic flights, and Terminal 3 handles domestic and international. These terminals handle all flights to Delhi and from it. By train: Delhi is served by several major railway stations. Old Delhi Railway Station and New Delhi Railway Station are the primary ones connecting the city to major destinations across the country. By bus: Delhi boasts an extensive network of state-run and private bus services. They offer connections to many cities and towns. Getting around/local transport in Delhi : Delhi offers various modes of local transportation, including taxis, buses, auto rickshaws, and cycle rickshaws. Additionally, the Delhi Metro is a popular and efficient way to navigate the city. View More "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Places to visit "
+        },
+        {
+          "change_type": "equal",
+          "text": "Trending Safdarjung Tomb Historical elegance, Mughal heritage, soaring height, and intricate carvings. Exploration time: 1-2 hours Qutub Minar Exploration time: 1-2 hours Humayun\u2019s Tomb Exploration time: 1-2 hours Lotus Temple Exploration time: 1 hour Jantar Mantar Exploration time: 2 hour Rashtrapati Bhawan Exploration time: 2-3 hours India Gate Exploration time: 1 hours Red Fort Exploration time: 1 hours Akshardham Temple Exploration time: 3-4 hours "
+        },
+        {
+          "change_type": "deletion",
+          "text": "View All 9 places View less "
+        },
+        {
+          "change_type": "equal",
+          "text": "Places to eat Chennai is considered the best east coast destination to visit in South India. So, if you plan to book your flights to Chennai, make sure to plan between November to February. Karim\u2019s This iconic eatery in Old Delhi was established in 1913. The restaurant is popular for its non-vegetarian dishes. Popular dishes: Kebabs, meat curries, naan Moti Mahal Tandoori food is their expertise, and their ability to retain those distinguished flavours makes Moti Mahal a must-visit. Popular dishes: Butter chicken, butter naan, dal makhani Embassy Embassy offers a beautiful journey through North Indian cuisine, captivating the taste buds of food enthusiasts from near and far. Popular dishes: Butter chicken, chicken tikka masala, garlic naan Yeti - Himalayan Kitchen Yeti is celebrated for offering an authentic taste of Nepalese and Tibetan cuisine. Known for its dedication to quality and authenticity, Yeti promises an unforgettable dining experience. Popular dishes: Momos, thukpa, and ema datshi Kake Di Hatti This eatery is renowned for its hearty Punjabi cuisine and generous portions. Kake Di Hatti promises a feast for the senses, from aromatic curries to sizzling tandoori delights. Popular dishes: Naan, chole bhature, dal makhani Bukhara Bukhara is the epitome of culinary excellence and is one of Delhi's most revered dining destinations. With its rustic charm and timeless elegance, you will find an open kitchen at this restaurant in the ITC Hotel. It is renowned for its curries cooked in traditional clay ovens.an see, feel and experience in Chennai. Where to stay in Delhi Up to 25%* off on hotel bookings with IndiGo, Use code GOSTAY 4/5"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "926 reviews) The LaLiT New Delhi Delhi \u20b9 11,805 /night Incl of taxes & fees Book 4.2/5"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "729 reviews) Bloomrooms @ New Delhi Railway Station Delhi \u20b9 2,728 /night Incl of taxes & fees Book 3.8/5"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "910 reviews) Pride Plaza Hotel Aerocity New Delhi Delhi \u20b9 6,580 /night Incl of taxes & fees Book 4/5"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "924 reviews) The Metropolitan Hotel and Spa New Delhi Delhi \u20b9 7,577 /night Incl of taxes & fees Book Hotel Bawa Gurgaon Delhi \u20b9 2,700 /night + \u20b9 324 Taxes & fees Book 3.2/5"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "63 reviews) Hotel Diplomat Delhi \u20b9 7,847 \u20b9 6,028 /night + \u20b9 874 Taxes & fees Book 4.3/5"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "53 reviews) Le ROI Express Paharganj Delhi \u20b9 1,852 /night Incl of taxes & fees Book 4.3/5"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "157 reviews) Bloomrooms @ Janpath Delhi \u20b9 5,631 /night Incl of taxes & fees Book 4.1/5"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "121 reviews) Park Inn by Radisson New Delhi Lajpat Nagar Delhi \u20b9 5,999 \u20b9 5,400 /night + \u20b9 648 Taxes & fees Book 4.2/5"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "921 reviews) Holiday Inn New Delhi Aerocity by IHG Delhi \u20b9 7,372 /night Incl of taxes & fees Book Show more Things To Do There are innumerable things to do in Delhi. Here are some experiences that can make your time in the city fulfilling. Architectural Tours Heritage Excursions Historical Site Visits Cultural Tour Street Shopping Museum Exploration Street food"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Back"
+        },
+        {
+          "change_type": "equal",
+          "text": " Best time to visit The best time to visit the city is during the winter months, from October to March, when the weather is pleasant for outdoor activities. View More Shopping The best way to take memories from a place is by shopping and collecting souvenirs. Let\u2019s explore some places that hold the best of Delhi\u2019s novelties: Sarojini Nagar: This market is well-known for its lively and budget-friendly shopping options. It is a popular destination for trendy clothes, accessories, and household items. Lajpat Nagar: Lajpat Nagar market has an eclectic mix of clothing, accessories, and household items. It caters to a wide range of tastes and budgets. It is also a popular destination for bridal shopping. Janpath: Janpath is famous for its shops, boutiques, and street vendors offering diverse merchandise. It caters to varied tastes and budgets, offering traditional handicrafts, textiles, trendy clothes, and accessories. Chandni Chowk: Chandni Chowk is one of Delhi's oldest and busiest marketplaces, offering various things at economical prices. The place is known for wedding shopping. Additionally, its street food is quite a favourite and attracts many foreign visitors. Dilli Haat: Here artisans from different states display and sell traditional handicrafts, textiles, and artworks. It is a great place to shop specialities from various regions like dhokra sculptures from Chhattisgarh, and Madhubani and bamboo handicrafts from the North-East. Chor Bazaar: Chor Bazaar, also known as the Thieves Market, is a bustling flea market where one can find many second-hand goods, antiques, and vintage items at bargain prices. Khan Market: One of Delhi's most premium shopping places, Khan Market houses a range of dining options, boutique stores, expensive brands, and more. Known for its chic ambience and high-end offerings, Khan Market is a favourite destination for fashionistas and foodies. View More Festivals Delhi becomes vibrant during the festive season, and if you can plan your visit during these times, you will witness a unique side of the city: Diwali Celebrated with grandeur and enthusiasm, the festival of lights Holi Delhi bursts with colours and laughter as streets come alive with playful water Eid-ul-Fitr Delhi embraces the spirit of Eid-ul-Fitr with prayers, feasts, and joyful Durga Puja Delhi embraces the spirit of Eid-ul-Fitr with prayers, feasts, and joyful More reasons to visit While Delhi brings uncountable reasons to plan a visit, let\u2019s go through some more reasons that can make your trip even more wholesome: Explore the street art: Explore India's first public open-air art gallery in the Lodhi Art District. Several famous international and local artists have painted over 50 murals on the walls. Explore spice markets: From aromatic cloves and cardamom to fiery chilli peppers and fragrant saffron, the spice markets in Delhi hold several culinary delights. Wander through the lanes of Khari Baoli and encounter fellow tourists marvelling at the abundance of spices. The National Museum: The National Museum is one of India's premier cultural institutions. Established in 1949, it boasts an extensive collection of artefacts spanning thousands of years of Indian history and culture. View More Related travel blogs Exciting activities to indulge in a Delhi tour with family and friends Dilli ki sardi: Here\u2019s why Delhi winters are worth all the hype 12 places to explore the art and culture of Delhi Iconic Delhi markets to shop till you drop at"
+        },
+        {
+          "change_type": "insertion",
+          "text": " Share Feedback Add e-mail id to get inspired Please enter valid email address. COMPANY About us IndiGo Green \u2013 ESG report 6E Embrace - Diversity Equity & Inclusion IndiGoReach - Our CSR initiatives Board of Directors Leadership Team Investor Relations InterGlobe Enterprises RPWD - Equal Opportunity Policy Transgender Persons Policy HIV/AIDS workplace policy Seat/Aircraft information SUPPORT Plan B Special/Disability Assistance Medical Assistance Seat Select 6E Eats Add-ons & Services Baggage Refund Claim Charter Services Hotels 6Eskai Contact Us IndiGo CarGo Tax exemption FAQ's QUICK LINKS Tariff Sheet Offers Careers Advertise with us Sitemap Destinations Blogs Terms and Conditions Conditions of carriage Privacy Policy Disclaimer International Travel Tips Web check-in advisory Purchase requirement Download app Flight status Codeshare Partners Domestic Flights International Flights Passenger Charter MEDIA Press releases Our awards Testimonials Hello 6E Magazine Awards Best Low Cost Airline-Asia Passenger Choice Awards Best Low Cost Airline-Central Asia SOCIAL MEDIA facebook Twitter Instagram LinkedIn DOWNLOAD APP iOS / Android"
+        }
+      ],
+      "similarity_score": 0.9868571005099734
+    }
+  ]
+}
