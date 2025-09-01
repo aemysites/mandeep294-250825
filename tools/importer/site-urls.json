@@ -1,5 +1,6 @@
 {
   "originUrl": "https://wknd.site",
+  "aborted": false,
   "lastCrawled": "https://wknd.site/",
   "urls": [
     {
@@ -391,7 +392,7 @@
     "timeout": 64800000,
     "inclusionPatterns": [],
     "exclusionPatterns": [],
-    "limit": -1,
+    "limit": 100,
     "sameDomain": true,
     "keepHash": false,
     "strategy": "crawl",
@@ -406,5 +407,7 @@
       "url": "https://wknd.site/",
       "status": "301 Moved Permanently Redirect: https://wknd.site/us/en.html"
     }
-  ]
+  ],
+  "errorCountMessage": "{\"E_301\":1}",
+  "error": null
 }
