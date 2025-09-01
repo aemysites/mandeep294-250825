@@ -1,0 +1,410 @@
+{
+  "originUrl": "https://wknd.site",
+  "lastCrawled": "https://wknd.site/",
+  "urls": [
+    {
+      "url": "https://wknd.site/ca/en.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en",
+      "id": "75e40e45008cbfff6aeae938c62c8b9320b05b94"
+    },
+    {
+      "url": "https://wknd.site/ca/en/about-us.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/about-us",
+      "id": "b9bd0d7b769a65b6c2acc1aec3e8fa14019fb683"
+    },
+    {
+      "url": "https://wknd.site/ca/en/adventures.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/adventures",
+      "id": "7a455a5e87b6e6374935a0feecfe65a676fb976d"
+    },
+    {
+      "url": "https://wknd.site/ca/en/adventures/bali-surf-camp.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/adventures/bali-surf-camp",
+      "id": "678b1dddda4aa30d25e5f45b32551ccdbc0e40a6"
+    },
+    {
+      "url": "https://wknd.site/ca/en/adventures/beervana-portland.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/adventures/beervana-portland",
+      "id": "ddf822e6567d87299a90d0657670602df46b83a7"
+    },
+    {
+      "url": "https://wknd.site/ca/en/adventures/climbing-new-zealand.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/adventures/climbing-new-zealand",
+      "id": "23218dc0ea1fc6259e65fb5209e688a5a7e44ea2"
+    },
+    {
+      "url": "https://wknd.site/ca/en/adventures/colorado-rock-climbing.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/adventures/colorado-rock-climbing",
+      "id": "ba9a71ea97d8e522ed511640026c028cd6f3266e"
+    },
+    {
+      "url": "https://wknd.site/ca/en/adventures/cycling-southern-utah.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/adventures/cycling-southern-utah",
+      "id": "a7eaa407cbe4db9485e9b531a0e30471a1735503"
+    },
+    {
+      "url": "https://wknd.site/ca/en/adventures/cycling-tuscany.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/adventures/cycling-tuscany",
+      "id": "3219c3bfe98772d2c9053848d132718fc7c8a573"
+    },
+    {
+      "url": "https://wknd.site/ca/en/adventures/downhill-skiing-wyoming.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/adventures/downhill-skiing-wyoming",
+      "id": "8e7a04bd7469818450ab9b0302c70282cc5d4649"
+    },
+    {
+      "url": "https://wknd.site/ca/en/adventures/gastronomic-marais-tour.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/adventures/gastronomic-marais-tour",
+      "id": "2d3bec3d0bdbfeb5d4474abbad80275ba0521f1f"
+    },
+    {
+      "url": "https://wknd.site/ca/en/adventures/napa-wine-tasting.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/adventures/napa-wine-tasting",
+      "id": "d22cea1fef7768f69fc901cc293c038fb398a64f"
+    },
+    {
+      "url": "https://wknd.site/ca/en/adventures/riverside-camping-australia.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/adventures/riverside-camping-australia",
+      "id": "b621776a2186798d2c70ffefca929e47c2a97c1e"
+    },
+    {
+      "url": "https://wknd.site/ca/en/adventures/ski-touring-mont-blanc.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/adventures/ski-touring-mont-blanc",
+      "id": "7d366af7ee5af9b246b88a425141cab80f7d86e9"
+    },
+    {
+      "url": "https://wknd.site/ca/en/adventures/surf-camp-costa-rica.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/adventures/surf-camp-costa-rica",
+      "id": "0f15714d3e665b90954574983f483778ba7b1a43"
+    },
+    {
+      "url": "https://wknd.site/ca/en/adventures/tahoe-skiing.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/adventures/tahoe-skiing",
+      "id": "b72a273103f9821ac4739deb8e9fd50e508a455f"
+    },
+    {
+      "url": "https://wknd.site/ca/en/adventures/west-coast-cycling.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/adventures/west-coast-cycling",
+      "id": "c1cd098d191f254472307b4813db4897a8b86ef7"
+    },
+    {
+      "url": "https://wknd.site/ca/en/adventures/whistler-mountain-biking.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/adventures/whistler-mountain-biking",
+      "id": "457f1a7879077fb413f66cb72e37bb53651b1222"
+    },
+    {
+      "url": "https://wknd.site/ca/en/adventures/yosemite-backpacking.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/adventures/yosemite-backpacking",
+      "id": "2ca1ab0fd46f0e5e5d0cba1b167bade26a2194ff"
+    },
+    {
+      "url": "https://wknd.site/ca/en/faqs.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/faqs",
+      "id": "863a2b0c0d71265cedb98984d781ed817028e1ef"
+    },
+    {
+      "url": "https://wknd.site/ca/en/magazine.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/magazine",
+      "id": "504dde310dbd2596d49210e05d4f05dbde994a81"
+    },
+    {
+      "url": "https://wknd.site/ca/en/magazine/arctic-surfing.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/magazine/arctic-surfing",
+      "id": "6cb569819fbd2dfd27f2e4e48c0abfe2d0c3696b"
+    },
+    {
+      "url": "https://wknd.site/ca/en/magazine/guide-la-skateparks.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/magazine/guide-la-skateparks",
+      "id": "13006f5defa79bcbe6557754cdac77a801b3a372"
+    },
+    {
+      "url": "https://wknd.site/ca/en/magazine/members-only.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/magazine/members-only",
+      "id": "c8e9e4dd0a8a167dfa7d05ff582d10c4ec5c9090"
+    },
+    {
+      "url": "https://wknd.site/ca/en/magazine/members-only/alaskan-adventure.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/magazine/members-only/alaskan-adventure",
+      "id": "df129cf65f60aec51fbaa5ce1e2e805dd66f1f8d"
+    },
+    {
+      "url": "https://wknd.site/ca/en/magazine/members-only/fly-fishing-the-amazon.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/magazine/members-only/fly-fishing-the-amazon",
+      "id": "617a93294ffba795b5aed1f5dba2238a9e38b186"
+    },
+    {
+      "url": "https://wknd.site/ca/en/magazine/san-diego-surf.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/magazine/san-diego-surf",
+      "id": "3550c5e8aa07bdb3d76255bad2fdbec6ad340738"
+    },
+    {
+      "url": "https://wknd.site/ca/en/magazine/ski-touring.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/magazine/ski-touring",
+      "id": "fbda622a9ea0af1b6c3c8f654f68ffb66ef84b33"
+    },
+    {
+      "url": "https://wknd.site/ca/en/magazine/western-australia.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/en/magazine/western-australia",
+      "id": "6ad76b5e471e4a84f7b48760fa56c717595e006c"
+    },
+    {
+      "url": "https://wknd.site/ca/fr.html",
+      "source": "CRAWL",
+      "targetPath": "/ca/fr",
+      "id": "c54edba16b6f5b2fc520f684768f025e2da10763"
+    },
+    {
+      "url": "https://wknd.site/ch/de.html",
+      "source": "CRAWL",
+      "targetPath": "/ch/de",
+      "id": "a9abbc3f15fbdfd7f9fde888217fce699b407a75"
+    },
+    {
+      "url": "https://wknd.site/ch/fr.html",
+      "source": "CRAWL",
+      "targetPath": "/ch/fr",
+      "id": "f1fccf96bf36224f10cb81b1d052e2a6c017949d"
+    },
+    {
+      "url": "https://wknd.site/ch/it.html",
+      "source": "CRAWL",
+      "targetPath": "/ch/it",
+      "id": "6d0297e1c2eca3f0df9077a9bae5f15bdc036fae"
+    },
+    {
+      "url": "https://wknd.site/de/de.html",
+      "source": "CRAWL",
+      "targetPath": "/de/de",
+      "id": "049288fd2b43f9f77fc2aaddc1d9978bbb9e848f"
+    },
+    {
+      "url": "https://wknd.site/es/es.html",
+      "source": "CRAWL",
+      "targetPath": "/es/es",
+      "id": "0f82d69eef44e82947ea64de137180348a4dc56e"
+    },
+    {
+      "url": "https://wknd.site/fr/fr.html",
+      "source": "CRAWL",
+      "targetPath": "/fr/fr",
+      "id": "a5c37db08b35b6e1cd8db378f0c1624eeb4ae2f9"
+    },
+    {
+      "url": "https://wknd.site/it/it.html",
+      "source": "CRAWL",
+      "targetPath": "/it/it",
+      "id": "d974d3943166f155fa5183d10116ca3c17a0ce20"
+    },
+    {
+      "url": "https://wknd.site/us/en.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en",
+      "id": "c76865e01a59d1b318b0ceda7c573c315b7d1195"
+    },
+    {
+      "url": "https://wknd.site/us/en/about-us.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/about-us",
+      "id": "c258e4532b1fcc0de248a5fb2ccdcd8ec5608c24"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/adventures",
+      "id": "6fbce216dd3c7b02faf25398c1eaa03c8cf33519"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures/bali-surf-camp.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/adventures/bali-surf-camp",
+      "id": "2e38a9c17d6ba1bc5b6330a324cda5786258b47e"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures/beervana-portland.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/adventures/beervana-portland",
+      "id": "0539e503c41b9a4eab755d6f609be7909b90e80e"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures/climbing-new-zealand.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/adventures/climbing-new-zealand",
+      "id": "9caa0a9221e4d34d7344a7ecdf77eb57899b4c96"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures/colorado-rock-climbing.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/adventures/colorado-rock-climbing",
+      "id": "f78265a466d69cff2f3605fd08e8403911e7b850"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures/cycling-southern-utah.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/adventures/cycling-southern-utah",
+      "id": "8648ab5a4304678cffc1388d7be1e932bd506ef3"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures/cycling-tuscany.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/adventures/cycling-tuscany",
+      "id": "09782ca4afd30fe4c584ed5a6cf264df59e33583"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures/downhill-skiing-wyoming.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/adventures/downhill-skiing-wyoming",
+      "id": "2bfaf893c0b67bb83f3d4ba9f17fd1c774a93574"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures/gastronomic-marais-tour.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/adventures/gastronomic-marais-tour",
+      "id": "850c7841cbfd199e6b6fefb1cd1e34ca436b935d"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures/napa-wine-tasting.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/adventures/napa-wine-tasting",
+      "id": "a2e48fd5c920155e90fc83f45bd79d0aaa0d3cd8"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures/riverside-camping-australia.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/adventures/riverside-camping-australia",
+      "id": "68edd41a7b6178dc0b05c60f261a91471a52d04b"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures/ski-touring-mont-blanc.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/adventures/ski-touring-mont-blanc",
+      "id": "ef585c81b47d852aacd3000dcdc2b6b832f6e209"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures/surf-camp-costa-rica.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/adventures/surf-camp-costa-rica",
+      "id": "de076791cf53b48fe0a31faa4f325ff99b623a69"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures/tahoe-skiing.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/adventures/tahoe-skiing",
+      "id": "6b8fe4b08c119a204173f9266930965ffbdbe8dd"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures/west-coast-cycling.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/adventures/west-coast-cycling",
+      "id": "f4ac7a727c90da4eb54fd2dd82364d77eeba72be"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures/whistler-mountain-biking.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/adventures/whistler-mountain-biking",
+      "id": "4a38866b61f0a444ddb99157176cb95b0a0c06f4"
+    },
+    {
+      "url": "https://wknd.site/us/en/adventures/yosemite-backpacking.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/adventures/yosemite-backpacking",
+      "id": "1f18735bbb9b46e7be201a50c56f9ca411fbc8d3"
+    },
+    {
+      "url": "https://wknd.site/us/en/faqs.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/faqs",
+      "id": "1afb5043e0553960631f05181289952739221d14"
+    },
+    {
+      "url": "https://wknd.site/us/en/magazine.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/magazine",
+      "id": "17b58a0bdc3faf7fb00838344d9a62d8a9d72190"
+    },
+    {
+      "url": "https://wknd.site/us/en/magazine/arctic-surfing.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/magazine/arctic-surfing",
+      "id": "7ce7171961154d90172cf13c2a34900170b92d67"
+    },
+    {
+      "url": "https://wknd.site/us/en/magazine/guide-la-skateparks.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/magazine/guide-la-skateparks",
+      "id": "d457f5483d8efd291ce7ad4c6f3e0619611981a3"
+    },
+    {
+      "url": "https://wknd.site/us/en/magazine/san-diego-surf.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/magazine/san-diego-surf",
+      "id": "efb2a09cb60df5a6dbb613cdad4568801be10182"
+    },
+    {
+      "url": "https://wknd.site/us/en/magazine/ski-touring.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/magazine/ski-touring",
+      "id": "b1aaea2de2269c987d0d66e72be686f125e936f8"
+    },
+    {
+      "url": "https://wknd.site/us/en/magazine/western-australia.html",
+      "source": "CRAWL",
+      "targetPath": "/us/en/magazine/western-australia",
+      "id": "77a252443a3f0c46f8f06b967d1ecc371eabcdc8"
+    },
+    {
+      "url": "https://wknd.site/us/es.html",
+      "source": "CRAWL",
+      "targetPath": "/us/es",
+      "id": "2e12e1e5b4962d32a46cd4b9f4a2fc81fee3e39f"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://wknd.site/",
+      "status": "301 Moved Permanently Redirect: https://wknd.site/us/en.html"
+    }
+  ]
+}
