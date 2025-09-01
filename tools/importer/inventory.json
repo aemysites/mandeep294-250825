@@ -2150,6 +2150,7 @@
     {
       "name": "unknown",
       "cluster": 10,
+      "key": "unknown10",
       "instances": [
         {
           "url": "https://wknd.site/ca/en/adventures/surf-camp-costa-rica.html",
@@ -2476,6 +2477,7 @@
     {
       "name": "unknown",
       "cluster": 16,
+      "key": "unknown16",
       "instances": [
         {
           "url": "https://wknd.site/us/en/magazine/ski-touring.html",
@@ -2803,6 +2805,7 @@
     {
       "name": "unknown",
       "cluster": 28,
+      "key": "unknown28",
       "instances": [
         {
           "url": "https://wknd.site/ca/en/magazine/members-only/alaskan-adventure.html",
@@ -2920,6 +2923,7 @@
     {
       "name": "unknown",
       "cluster": 34,
+      "key": "unknown34",
       "instances": [
         {
           "url": "https://wknd.site/ca/en/magazine/members-only/fly-fishing-the-amazon.html",
