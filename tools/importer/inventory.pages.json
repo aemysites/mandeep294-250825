@@ -1,7 +1,7 @@
 {
   "templates": [
     {
-      "name": "'Travel Blog Listing'",
+      "name": "Gallery Blog Template",
       "cluster": 1,
       "pages": [
         {
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "name": "'Portfolio Showcase'",
+      "name": "'Image-Focused Content Page'",
       "cluster": 2,
       "pages": [
         {
@@ -157,48 +157,8 @@
       ]
     },
     {
-      "name": "'Travel Blog Template'",
+      "name": "Gallery Listing Template",
       "cluster": 3,
-      "pages": [
-        {
-          "url": "https://wknd.site/ca/fr.html",
-          "uuid": "c54edba16b6f5b2fc520f684768f025e2da10763"
-        },
-        {
-          "url": "https://wknd.site/ca/en.html",
-          "uuid": "75e40e45008cbfff6aeae938c62c8b9320b05b94"
-        }
-      ]
-    },
-    {
-      "name": "'Photo Story Page'",
-      "cluster": 4,
-      "pages": [
-        {
-          "url": "https://wknd.site/us/en/magazine/guide-la-skateparks.html",
-          "uuid": "d457f5483d8efd291ce7ad4c6f3e0619611981a3"
-        },
-        {
-          "url": "https://wknd.site/us/en/magazine/western-australia.html",
-          "uuid": "77a252443a3f0c46f8f06b967d1ecc371eabcdc8"
-        },
-        {
-          "url": "https://wknd.site/us/en/magazine/san-diego-surf.html",
-          "uuid": "efb2a09cb60df5a6dbb613cdad4568801be10182"
-        },
-        {
-          "url": "https://wknd.site/us/en/magazine/ski-touring.html",
-          "uuid": "b1aaea2de2269c987d0d66e72be686f125e936f8"
-        },
-        {
-          "url": "https://wknd.site/us/en/magazine/arctic-surfing.html",
-          "uuid": "7ce7171961154d90172cf13c2a34900170b92d67"
-        }
-      ]
-    },
-    {
-      "name": "Gallery Listing",
-      "cluster": 5,
       "pages": [
         {
           "url": "https://wknd.site/ca/en/magazine/guide-la-skateparks.html",
@@ -227,64 +187,34 @@
       ]
     },
     {
-      "name": "'Travel Blog Template'",
-      "cluster": 6,
+      "name": "'Photo Gallery Page'",
+      "cluster": 4,
       "pages": [
         {
-          "url": "https://wknd.site/us/en/adventures.html",
-          "uuid": "6fbce216dd3c7b02faf25398c1eaa03c8cf33519"
+          "url": "https://wknd.site/us/en/magazine/guide-la-skateparks.html",
+          "uuid": "d457f5483d8efd291ce7ad4c6f3e0619611981a3"
         },
         {
-          "url": "https://wknd.site/us/en/magazine.html",
-          "uuid": "17b58a0bdc3faf7fb00838344d9a62d8a9d72190"
+          "url": "https://wknd.site/us/en/magazine/western-australia.html",
+          "uuid": "77a252443a3f0c46f8f06b967d1ecc371eabcdc8"
         },
         {
-          "url": "https://wknd.site/us/en/about-us.html",
-          "uuid": "c258e4532b1fcc0de248a5fb2ccdcd8ec5608c24"
+          "url": "https://wknd.site/us/en/magazine/san-diego-surf.html",
+          "uuid": "efb2a09cb60df5a6dbb613cdad4568801be10182"
         },
         {
-          "url": "https://wknd.site/us/en/faqs.html",
-          "uuid": "1afb5043e0553960631f05181289952739221d14"
-        }
-      ]
-    },
-    {
-      "name": "'Landing Page'",
-      "cluster": 7,
-      "pages": [
-        {
-          "url": "https://wknd.site/es/es.html",
-          "uuid": "0f82d69eef44e82947ea64de137180348a4dc56e"
-        }
-      ]
-    },
-    {
-      "name": "'Hero Banner Page'",
-      "cluster": 8,
-      "pages": [
-        {
-          "url": "https://wknd.site/it/it.html",
-          "uuid": "d974d3943166f155fa5183d10116ca3c17a0ce20"
-        }
-      ]
-    },
-    {
-      "name": "Gallery Page",
-      "cluster": 9,
-      "pages": [
-        {
-          "url": "https://wknd.site/ca/en/magazine/members-only/alaskan-adventure.html",
-          "uuid": "df129cf65f60aec51fbaa5ce1e2e805dd66f1f8d"
+          "url": "https://wknd.site/us/en/magazine/ski-touring.html",
+          "uuid": "b1aaea2de2269c987d0d66e72be686f125e936f8"
         },
         {
-          "url": "https://wknd.site/ca/en/magazine/members-only/fly-fishing-the-amazon.html",
-          "uuid": "617a93294ffba795b5aed1f5dba2238a9e38b186"
+          "url": "https://wknd.site/us/en/magazine/arctic-surfing.html",
+          "uuid": "7ce7171961154d90172cf13c2a34900170b92d67"
         }
       ]
     },
     {
       "name": "'Travel Blog Template'",
-      "cluster": 10,
+      "cluster": 5,
       "pages": [
         {
           "url": "https://wknd.site/ca/en/adventures.html",
@@ -305,7 +235,77 @@
       ]
     },
     {
-      "name": "'Travel Blog Template'",
+      "name": "'Photo Gallery Page'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://wknd.site/ca/fr.html",
+          "uuid": "c54edba16b6f5b2fc520f684768f025e2da10763"
+        },
+        {
+          "url": "https://wknd.site/ca/en.html",
+          "uuid": "75e40e45008cbfff6aeae938c62c8b9320b05b94"
+        }
+      ]
+    },
+    {
+      "name": "\"Hero Image Landing Page\"",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://wknd.site/es/es.html",
+          "uuid": "0f82d69eef44e82947ea64de137180348a4dc56e"
+        }
+      ]
+    },
+    {
+      "name": "'Photo Gallery Page'",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://wknd.site/ca/en/magazine/members-only/fly-fishing-the-amazon.html",
+          "uuid": "617a93294ffba795b5aed1f5dba2238a9e38b186"
+        },
+        {
+          "url": "https://wknd.site/ca/en/magazine/members-only/alaskan-adventure.html",
+          "uuid": "df129cf65f60aec51fbaa5ce1e2e805dd66f1f8d"
+        }
+      ]
+    },
+    {
+      "name": "'Contact Page'",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://wknd.site/it/it.html",
+          "uuid": "d974d3943166f155fa5183d10116ca3c17a0ce20"
+        }
+      ]
+    },
+    {
+      "name": "'Blog/Magazine Template'",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://wknd.site/us/en/adventures.html",
+          "uuid": "6fbce216dd3c7b02faf25398c1eaa03c8cf33519"
+        },
+        {
+          "url": "https://wknd.site/us/en/magazine.html",
+          "uuid": "17b58a0bdc3faf7fb00838344d9a62d8a9d72190"
+        },
+        {
+          "url": "https://wknd.site/us/en/about-us.html",
+          "uuid": "c258e4532b1fcc0de248a5fb2ccdcd8ec5608c24"
+        },
+        {
+          "url": "https://wknd.site/us/en/faqs.html",
+          "uuid": "1afb5043e0553960631f05181289952739221d14"
+        }
+      ]
+    },
+    {
+      "name": "'Travel Blog'",
       "cluster": 11,
       "pages": [
         {
@@ -319,7 +319,7 @@
       ]
     },
     {
-      "name": "'Contact Page'",
+      "name": "'Hero Header Page'",
       "cluster": 12,
       "pages": [
         {
