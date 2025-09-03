@@ -4,7 +4,10 @@ header .nav-wrapper {
   width: 100%;
   z-index: 2;
   position: fixed;
-  background: rgb(32 32 32) none repeat scroll 0% 0% / auto padding-box border-box;
+  height: var(--nav-height);
+  display: flex;
+  flex-direction: column;
+  background: rgb(0 0 51) none repeat scroll 0% 0% / auto padding-box border-box;
 }
 
 header nav {
@@ -15,7 +18,7 @@ header nav {
   gap: 0 24px;
   margin: auto;
   max-width: 1248px;
-  height: var(--nav-height);
+  flex: 1;
   padding: 0 24px;
   font-family: var(--body-font-family);
 }
@@ -257,4 +260,37 @@ header nav .nav-sections ul>li>ul>li {
 /* tools */
 header nav .nav-tools {
   grid-area: tools;
+}
+
+/* containers */
+header .nav-top-container, header .nav-bottom-container {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  max-width: 1248px;
+  flex: 0 0 auto;
+  padding: 0 24px;
+  background-color: var(--background-color);
+  font-size: var(--body-font-size-xs);
+}
+
+header .nav-top-container {
+  border-bottom: 1px solid var(--light-color);
+}
+
+header .nav-bottom-container {
+  border-top: 1px solid var(--light-color);
+}
+
+header .nav-top-container:empty, header .nav-bottom-container:empty {
+  display: none;
+}
+
+@media (width>=900px) {
+  header .nav-top-container, header .nav-bottom-container {
+    max-width: 1264px;
+    padding: 0 32px;
+  }
 }

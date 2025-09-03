@@ -17,24 +17,24 @@
   --text-color: #131313;
   --link-color: #3b63fb;
   --link-hover-color: #1d3ecf;
-  --body-font-family: "Source Sans Pro", "Source Sans Pro Fallback", "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
-  --heading-font-family: "Asar", "Asar Fallback", "Georgia", "Times New Roman", "Times", "serif";
+  --body-font-family: "MSC Pangea TF", "MSC Pangea TF Fallback", "Adjusted Arial Fallback", "sans-serif";
+  --heading-font-family: "MSC Pangea TF", "MSC Pangea TF Fallback", "Adjusted Arial Fallback", "sans-serif";
   --body-font-size-m: 16px;
-  --body-font-size-s: 14px;
-  --body-font-size-xs: 10px;
-  --heading-font-size-xxl: 40px;
-  --heading-font-size-xl: 36px;
-  --heading-font-size-l: 24px;
+  --body-font-size-s: 13.28px;
+  --body-font-size-xs: 10.72px;
+  --heading-font-size-xxl: 32px;
+  --heading-font-size-xl: 32px;
+  --heading-font-size-l: 18.72px;
   --heading-font-size-m: 16px;
-  --heading-font-size-s: 14px;
-  --heading-font-size-xs: 10px;
-  --nav-height: 25px;
+  --heading-font-size-s: 13.28px;
+  --heading-font-size-xs: 10.72px;
+  --nav-height: 117px;
   --header-height: var(--nav-height);
 }
 
 /* fallback fonts */
 @font-face {
-  font-family:"wknd-icon-font Fallback";
+  font-family:"msc-icons Fallback";
   font-style:normal;
   font-weight:400;
   src:local("Arial");
@@ -45,50 +45,39 @@
 }
 
 @font-face {
-  font-family:"Source Sans Pro Fallback";
+  font-family:"MSC Pangea TF Fallback";
   font-style:normal;
   font-weight:400;
   src:local("Arial");
-  ascent-override:104.47%;
-  descent-override:28.98%;
+  ascent-override:104.86%;
+  descent-override:26.27%;
   line-gap-override:0.00%;
-  size-adjust:94.19%;
+  size-adjust:96.70%;
 }
 
 @font-face {
-  font-family:"Source Sans Pro Fallback";
+  font-family:"MSC Pangea TF Fallback";
   font-style:normal;
   font-weight:600;
   src:local("Arial Bold");
-  ascent-override:109.50%;
-  descent-override:30.38%;
+  ascent-override:108.63%;
+  descent-override:27.21%;
   line-gap-override:0.00%;
-  size-adjust:89.87%;
-}
-
-@font-face {
-  font-family:"Asar Fallback";
-  font-style:normal;
-  font-weight:400;
-  src:local("Arial");
-  ascent-override:126.30%;
-  descent-override:58.82%;
-  line-gap-override:0.00%;
-  size-adjust:94.69%;
+  size-adjust:93.34%;
 }
 
 @media (width>=900px) {
   :root {
     --body-font-size-m: 16px;
-    --body-font-size-s: 14px;
-    --body-font-size-xs: 10px;
-    --heading-font-size-xxl: 40px;
-    --heading-font-size-xl: 36px;
-    --heading-font-size-l: 24px;
+    --body-font-size-s: 13.28px;
+    --body-font-size-xs: 10.72px;
+    --heading-font-size-xxl: 32px;
+    --heading-font-size-xl: 32px;
+    --heading-font-size-l: 18.72px;
     --heading-font-size-m: 16px;
-    --heading-font-size-s: 14px;
-    --heading-font-size-xs: 10px;
-    --nav-height: 25px;
+    --heading-font-size-s: 13.28px;
+    --heading-font-size-xs: 10.72px;
+    --nav-height: 117px;
   }
 }
 
@@ -277,5 +266,9 @@ main .section.light, main .section.highlight {
 }
 
 .section.section-1 {
-  background: rgb(32 32 32) none repeat scroll 0% 0% / auto padding-box border-box;
+  background: rgb(0 0 51) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-2 {
+  background: linear-gradient(rgb(0 0 0 / 0%), rgb(0 0 0 / 40%)) repeat scroll 0% 0% / auto padding-box border-box, rgb(211 211 211) none no-repeat scroll 50% 50% / cover padding-box border-box;
 }

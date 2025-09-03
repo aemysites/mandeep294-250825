@@ -1,330 +1,80 @@
 {
   "templates": [
     {
-      "name": "Gallery Blog Template",
+      "name": "'Travel Destination Showcase'",
       "cluster": 1,
       "pages": [
         {
-          "url": "https://wknd.site/us/en/adventures/climbing-new-zealand.html",
-          "uuid": "9caa0a9221e4d34d7344a7ecdf77eb57899b4c96"
+          "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20260317BGIBGI&itineraryCode=UVU5&viewPrice=person&filterBy=early&objID=VI20260317BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIR1%7CVIF02655IR6010MS&isDeal=true",
+          "uuid": "3b91d429354764e67cccc4c45e4d48fd8a771fe4"
         },
         {
-          "url": "https://wknd.site/us/en/adventures/whistler-mountain-biking.html",
-          "uuid": "4a38866b61f0a444ddb99157176cb95b0a0c06f4"
+          "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20260203BGIBGI&itineraryCode=UVUQ&viewPrice=person&filterBy=early&objID=VI20260203BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIR1%7CVIF01755IR6010MS&isDeal=true&flyAndCruise=hasAir",
+          "uuid": "4252327d0928d5dd9bc6cefa21afa174a98645f4"
         },
         {
-          "url": "https://wknd.site/ca/en/adventures/climbing-new-zealand.html",
-          "uuid": "23218dc0ea1fc6259e65fb5209e688a5a7e44ea2"
-        },
-        {
-          "url": "https://wknd.site/ca/en/adventures/whistler-mountain-biking.html",
-          "uuid": "457f1a7879077fb413f66cb72e37bb53651b1222"
-        },
-        {
-          "url": "https://wknd.site/us/en/adventures/downhill-skiing-wyoming.html",
-          "uuid": "2bfaf893c0b67bb83f3d4ba9f17fd1c774a93574"
-        },
-        {
-          "url": "https://wknd.site/ca/en/adventures/downhill-skiing-wyoming.html",
-          "uuid": "8e7a04bd7469818450ab9b0302c70282cc5d4649"
-        },
-        {
-          "url": "https://wknd.site/us/en/adventures/ski-touring-mont-blanc.html",
-          "uuid": "ef585c81b47d852aacd3000dcdc2b6b832f6e209"
-        },
-        {
-          "url": "https://wknd.site/us/en/adventures/riverside-camping-australia.html",
-          "uuid": "68edd41a7b6178dc0b05c60f261a91471a52d04b"
-        },
-        {
-          "url": "https://wknd.site/us/en/adventures/cycling-tuscany.html",
-          "uuid": "09782ca4afd30fe4c584ed5a6cf264df59e33583"
-        },
-        {
-          "url": "https://wknd.site/us/en/adventures/surf-camp-costa-rica.html",
-          "uuid": "de076791cf53b48fe0a31faa4f325ff99b623a69"
-        },
-        {
-          "url": "https://wknd.site/us/en/adventures/beervana-portland.html",
-          "uuid": "0539e503c41b9a4eab755d6f609be7909b90e80e"
-        },
-        {
-          "url": "https://wknd.site/ca/en/adventures/ski-touring-mont-blanc.html",
-          "uuid": "7d366af7ee5af9b246b88a425141cab80f7d86e9"
-        },
-        {
-          "url": "https://wknd.site/ca/en/adventures/riverside-camping-australia.html",
-          "uuid": "b621776a2186798d2c70ffefca929e47c2a97c1e"
-        },
-        {
-          "url": "https://wknd.site/ca/en/adventures/cycling-tuscany.html",
-          "uuid": "3219c3bfe98772d2c9053848d132718fc7c8a573"
-        },
-        {
-          "url": "https://wknd.site/ca/en/adventures/surf-camp-costa-rica.html",
-          "uuid": "0f15714d3e665b90954574983f483778ba7b1a43"
-        },
-        {
-          "url": "https://wknd.site/ca/en/adventures/beervana-portland.html",
-          "uuid": "ddf822e6567d87299a90d0657670602df46b83a7"
-        },
-        {
-          "url": "https://wknd.site/us/en/adventures/bali-surf-camp.html",
-          "uuid": "2e38a9c17d6ba1bc5b6330a324cda5786258b47e"
-        },
-        {
-          "url": "https://wknd.site/ca/en/adventures/bali-surf-camp.html",
-          "uuid": "678b1dddda4aa30d25e5f45b32551ccdbc0e40a6"
-        },
-        {
-          "url": "https://wknd.site/us/en/adventures/napa-wine-tasting.html",
-          "uuid": "a2e48fd5c920155e90fc83f45bd79d0aaa0d3cd8"
-        },
-        {
-          "url": "https://wknd.site/us/en/adventures/colorado-rock-climbing.html",
-          "uuid": "f78265a466d69cff2f3605fd08e8403911e7b850"
-        },
-        {
-          "url": "https://wknd.site/us/en/adventures/cycling-southern-utah.html",
-          "uuid": "8648ab5a4304678cffc1388d7be1e932bd506ef3"
-        },
-        {
-          "url": "https://wknd.site/ca/en/adventures/napa-wine-tasting.html",
-          "uuid": "d22cea1fef7768f69fc901cc293c038fb398a64f"
-        },
-        {
-          "url": "https://wknd.site/ca/en/adventures/colorado-rock-climbing.html",
-          "uuid": "ba9a71ea97d8e522ed511640026c028cd6f3266e"
-        },
-        {
-          "url": "https://wknd.site/ca/en/adventures/cycling-southern-utah.html",
-          "uuid": "a7eaa407cbe4db9485e9b531a0e30471a1735503"
-        },
-        {
-          "url": "https://wknd.site/us/en/adventures/yosemite-backpacking.html",
-          "uuid": "1f18735bbb9b46e7be201a50c56f9ca411fbc8d3"
-        },
-        {
-          "url": "https://wknd.site/us/en/adventures/gastronomic-marais-tour.html",
-          "uuid": "850c7841cbfd199e6b6fefb1cd1e34ca436b935d"
-        },
-        {
-          "url": "https://wknd.site/ca/en/adventures/gastronomic-marais-tour.html",
-          "uuid": "2d3bec3d0bdbfeb5d4474abbad80275ba0521f1f"
-        },
-        {
-          "url": "https://wknd.site/ca/en/adventures/yosemite-backpacking.html",
-          "uuid": "2ca1ab0fd46f0e5e5d0cba1b167bade26a2194ff"
-        },
-        {
-          "url": "https://wknd.site/us/en/adventures/tahoe-skiing.html",
-          "uuid": "6b8fe4b08c119a204173f9266930965ffbdbe8dd"
-        },
-        {
-          "url": "https://wknd.site/us/en/adventures/west-coast-cycling.html",
-          "uuid": "f4ac7a727c90da4eb54fd2dd82364d77eeba72be"
-        },
-        {
-          "url": "https://wknd.site/ca/en/adventures/tahoe-skiing.html",
-          "uuid": "b72a273103f9821ac4739deb8e9fd50e508a455f"
-        },
-        {
-          "url": "https://wknd.site/ca/en/adventures/west-coast-cycling.html",
-          "uuid": "c1cd098d191f254472307b4813db4897a8b86ef7"
+          "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20251209BGIBGI&itineraryCode=UVTW&viewPrice=person&filterBy=early&objID=VI20251209BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIB%7CVIF01335IR5010MS&isDeal=true&flyAndCruise=hasAir",
+          "uuid": "4570fd8e80e9418f255a13e72b1b25f35d36f2d5"
         }
       ]
     },
     {
-      "name": "'Image-Focused Content Page'",
+      "name": "'Profile Page'",
       "cluster": 2,
       "pages": [
         {
-          "url": "https://wknd.site/ch/it.html",
-          "uuid": "6d0297e1c2eca3f0df9077a9bae5f15bdc036fae"
-        },
-        {
-          "url": "https://wknd.site/fr/fr.html",
-          "uuid": "a5c37db08b35b6e1cd8db378f0c1624eeb4ae2f9"
-        },
-        {
-          "url": "https://wknd.site/ch/de.html",
-          "uuid": "a9abbc3f15fbdfd7f9fde888217fce699b407a75"
-        },
-        {
-          "url": "https://wknd.site/ch/fr.html",
-          "uuid": "f1fccf96bf36224f10cb81b1d052e2a6c017949d"
+          "url": "https://www.msccruises.ie/integrity-compliance",
+          "uuid": "d5cc128bbdff04b72e7bc13896121acd39eb345a"
         }
       ]
     },
     {
-      "name": "Gallery Listing Template",
+      "name": "'Corporate Landing Page'",
       "cluster": 3,
       "pages": [
         {
-          "url": "https://wknd.site/ca/en/magazine/guide-la-skateparks.html",
-          "uuid": "13006f5defa79bcbe6557754cdac77a801b3a372"
-        },
-        {
-          "url": "https://wknd.site/ca/en/magazine/san-diego-surf.html",
-          "uuid": "3550c5e8aa07bdb3d76255bad2fdbec6ad340738"
-        },
-        {
-          "url": "https://wknd.site/ca/en/magazine/members-only.html",
-          "uuid": "c8e9e4dd0a8a167dfa7d05ff582d10c4ec5c9090"
-        },
-        {
-          "url": "https://wknd.site/ca/en/magazine/arctic-surfing.html",
-          "uuid": "6cb569819fbd2dfd27f2e4e48c0abfe2d0c3696b"
-        },
-        {
-          "url": "https://wknd.site/ca/en/magazine/ski-touring.html",
-          "uuid": "fbda622a9ea0af1b6c3c8f654f68ffb66ef84b33"
-        },
-        {
-          "url": "https://wknd.site/ca/en/magazine/western-australia.html",
-          "uuid": "6ad76b5e471e4a84f7b48760fa56c717595e006c"
+          "url": "https://www.msccruises.ie/faq",
+          "uuid": "0fcf7b86dfc89055f4c6dbb0f4b41788c0b53538"
         }
       ]
     },
     {
-      "name": "'Photo Gallery Page'",
+      "name": "'Course Listing Page'",
       "cluster": 4,
       "pages": [
         {
-          "url": "https://wknd.site/us/en/magazine/guide-la-skateparks.html",
-          "uuid": "d457f5483d8efd291ce7ad4c6f3e0619611981a3"
-        },
-        {
-          "url": "https://wknd.site/us/en/magazine/western-australia.html",
-          "uuid": "77a252443a3f0c46f8f06b967d1ecc371eabcdc8"
-        },
-        {
-          "url": "https://wknd.site/us/en/magazine/san-diego-surf.html",
-          "uuid": "efb2a09cb60df5a6dbb613cdad4568801be10182"
-        },
-        {
-          "url": "https://wknd.site/us/en/magazine/ski-touring.html",
-          "uuid": "b1aaea2de2269c987d0d66e72be686f125e936f8"
-        },
-        {
-          "url": "https://wknd.site/us/en/magazine/arctic-surfing.html",
-          "uuid": "7ce7171961154d90172cf13c2a34900170b92d67"
+          "url": "https://www.msccruises.ie/",
+          "uuid": "57106fcbe387dbab453dd352ae3f2957b2f45ad3"
         }
       ]
     },
     {
-      "name": "'Travel Blog Template'",
+      "name": "'Article Page'",
       "cluster": 5,
       "pages": [
         {
-          "url": "https://wknd.site/ca/en/adventures.html",
-          "uuid": "7a455a5e87b6e6374935a0feecfe65a676fb976d"
-        },
-        {
-          "url": "https://wknd.site/ca/en/magazine.html",
-          "uuid": "504dde310dbd2596d49210e05d4f05dbde994a81"
-        },
-        {
-          "url": "https://wknd.site/ca/en/about-us.html",
-          "uuid": "b9bd0d7b769a65b6c2acc1aec3e8fa14019fb683"
-        },
-        {
-          "url": "https://wknd.site/ca/en/faqs.html",
-          "uuid": "863a2b0c0d71265cedb98984d781ed817028e1ef"
+          "url": "https://www.msccruises.ie/deals/offers-of-the-week",
+          "uuid": "d530c6a01e5cda098f1dafbec239b657f37cadf7"
         }
       ]
     },
     {
-      "name": "'Photo Gallery Page'",
+      "name": "'Travel Destination Page'",
       "cluster": 6,
       "pages": [
         {
-          "url": "https://wknd.site/ca/fr.html",
-          "uuid": "c54edba16b6f5b2fc520f684768f025e2da10763"
-        },
-        {
-          "url": "https://wknd.site/ca/en.html",
-          "uuid": "75e40e45008cbfff6aeae938c62c8b9320b05b94"
+          "url": "https://www.msccruises.ie/deals",
+          "uuid": "7731b12c2a49cba4fa44b894db4f4ea595919ba5"
         }
       ]
     },
     {
-      "name": "\"Hero Image Landing Page\"",
+      "name": "'Travel Landing Page'",
       "cluster": 7,
       "pages": [
         {
-          "url": "https://wknd.site/es/es.html",
-          "uuid": "0f82d69eef44e82947ea64de137180348a4dc56e"
-        }
-      ]
-    },
-    {
-      "name": "'Photo Gallery Page'",
-      "cluster": 8,
-      "pages": [
-        {
-          "url": "https://wknd.site/ca/en/magazine/members-only/fly-fishing-the-amazon.html",
-          "uuid": "617a93294ffba795b5aed1f5dba2238a9e38b186"
-        },
-        {
-          "url": "https://wknd.site/ca/en/magazine/members-only/alaskan-adventure.html",
-          "uuid": "df129cf65f60aec51fbaa5ce1e2e805dd66f1f8d"
-        }
-      ]
-    },
-    {
-      "name": "'Contact Page'",
-      "cluster": 9,
-      "pages": [
-        {
-          "url": "https://wknd.site/it/it.html",
-          "uuid": "d974d3943166f155fa5183d10116ca3c17a0ce20"
-        }
-      ]
-    },
-    {
-      "name": "'Blog/Magazine Template'",
-      "cluster": 10,
-      "pages": [
-        {
-          "url": "https://wknd.site/us/en/adventures.html",
-          "uuid": "6fbce216dd3c7b02faf25398c1eaa03c8cf33519"
-        },
-        {
-          "url": "https://wknd.site/us/en/magazine.html",
-          "uuid": "17b58a0bdc3faf7fb00838344d9a62d8a9d72190"
-        },
-        {
-          "url": "https://wknd.site/us/en/about-us.html",
-          "uuid": "c258e4532b1fcc0de248a5fb2ccdcd8ec5608c24"
-        },
-        {
-          "url": "https://wknd.site/us/en/faqs.html",
-          "uuid": "1afb5043e0553960631f05181289952739221d14"
-        }
-      ]
-    },
-    {
-      "name": "'Travel Blog'",
-      "cluster": 11,
-      "pages": [
-        {
-          "url": "https://wknd.site/us/es.html",
-          "uuid": "2e12e1e5b4962d32a46cd4b9f4a2fc81fee3e39f"
-        },
-        {
-          "url": "https://wknd.site/us/en.html",
-          "uuid": "c76865e01a59d1b318b0ceda7c573c315b7d1195"
-        }
-      ]
-    },
-    {
-      "name": "'Hero Header Page'",
-      "cluster": 12,
-      "pages": [
-        {
-          "url": "https://wknd.site/de/de.html",
-          "uuid": "049288fd2b43f9f77fc2aaddc1d9978bbb9e848f"
+          "url": "https://www.msccruises.ie/deals/last-minute",
+          "uuid": "20090b82b9960f9cdbae3e35dcbc9644d877b362"
         }
       ]
     }

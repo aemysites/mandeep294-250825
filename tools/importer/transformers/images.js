@@ -12,6 +12,74 @@
 
 import { TransformHook } from './transform.js';
 
+/**
+ * Extracts the image URL from a picture element sources
+ * @param {HTMLElement} pictureElement - The picture element
+ * @returns {string|null} The URL for the largest viewport image, or null if not found
+ */
+function extractPictureSource(pictureElement) {
+  const sources = pictureElement.querySelectorAll('source');
+
+  if (sources.length === 0) {
+    return null;
+  }
+
+  // Find the source with the largest max-width
+  let largestSource = null;
+  let largestMaxWidth = -1;
+
+  for (const source of sources) {
+    const mediaQuery = source.getAttribute('media');
+    if (!mediaQuery) {
+      // No media query means it's the largest
+      largestSource = source;
+      break;
+    }
+
+    const match = mediaQuery.match(/max-width:\s*(\d+)px/);
+    if (match) {
+      const maxWidth = parseInt(match[1], 10);
+      if (maxWidth > largestMaxWidth) {
+        largestMaxWidth = maxWidth;
+        largestSource = source;
+      }
+    }
+  }
+
+  // If no source with max-width found, use the last source
+  if (!largestSource) {
+    largestSource = sources[sources.length - 1];
+  }
+
+  // Extract the first URL from the srcset
+  if (largestSource) {
+    const srcset = largestSource.getAttribute('srcset');
+    if (srcset) {
+      const firstUrl = srcset.split(',')[0].trim().split(/\s+/)[0];
+      if (firstUrl) {
+        return firstUrl;
+      }
+    }
+  }
+  return null;
+}
+
+function adjustPictureImages(main) {
+  const pictures = main.querySelectorAll('picture');
+  pictures.forEach((picture) => {
+    const img = picture.querySelector('img');
+    if (!img || !img.src) {
+      const newImg = picture.ownerDocument.createElement('img');
+      newImg.src = extractPictureSource(picture);
+      if (img) {
+        img.replaceWith(newImg);
+      } else {
+        picture.appendChild(newImg);
+      }
+    }
+  });
+}
+
 function adjustImageUrls(main, url, current) {
   [...main.querySelectorAll('img')].forEach((img) => {
     let src = img.getAttribute('src');
@@ -69,6 +137,8 @@ function transformSvgsToPng(main) {
 
 export default function transform(hookName, element, { url, originalURL }) {
   if (hookName === TransformHook.beforeTransform) {
+    // adjust picture images
+    adjustPictureImages(element);
     // adjust image urls
     adjustImageUrls(element, url, originalURL);
     // transform svgs to png

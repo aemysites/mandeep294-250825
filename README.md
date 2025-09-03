@@ -2,9 +2,9 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--mandeep294-250825--aemysites.aem.page/
-- Live: https://main--mandeep294-250825--aemysites.aem.live/
-- Block Library: https://main--mandeep294-250825--aemysites.aem.page/tools/sidekick/library.html?plugin=blocks
+- Preview: https://main--gabrielwalt-msccruises--aemysites.aem.page/
+- Live: https://main--gabrielwalt-msccruises--aemysites.aem.live/
+- Block Library: https://main--gabrielwalt-msccruises--aemysites.aem.page/tools/sidekick/library.html?plugin=blocks
 
 ## Documentation
 
@@ -14,7 +14,7 @@ Before using the aem-boilerplate, we recommand you to go through the documentati
 3. [Web Performance](https://www.aem.live/developer/keeping-it-100)
 4. [Markup, Sections, Blocks, and Auto Blocking](https://www.aem.live/developer/markup-sections-blocks)
 
-Furthermore, we encourage you to watch the recordings of any of our previous presentations or sessions:
+Furthremore, we encourage you to watch the recordings of any of our previous presentations or sessions:
 - [Getting started with AEM Authoring and Edge Delivery Services](https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery)
 
 ## Prerequisites
@@ -40,4 +40,4 @@ npm run lint
 1. Add the [AEM Code Sync GitHub App](https://github.com/apps/aem-code-sync) to the repository
 1. Install the [AEM CLI](https://github.com/adobe/helix-cli): `npm install -g @adobe/aem-cli`
 1. Start AEM Proxy: `aem up` (opens your browser at `http://localhost:3000`)
-1. Open the `mandeep294-250825` directory in your favorite IDE and start coding :)
+1. Open the `gabrielwalt-msccruises` directory in your favorite IDE and start coding :)
