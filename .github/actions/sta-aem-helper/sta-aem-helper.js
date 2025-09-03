@@ -13,8 +13,7 @@
 import core from '@actions/core';
 import fs from 'fs';
 import jwt from 'jsonwebtoken';
-// eslint-disable-next-line import/no-relative-packages
-import { getAccessTokenWithFallback } from '../sta-da-helper/ims-token-helper.js';
+import { getAccessTokenWithFallback } from './ims-token-helper.js';
 import { AEM_HELPER_OPERATIONS } from './sta-aem-helper-constants.js';
 import { doPreviewPublish, deletePreviewPublish } from './aem-preview-publish.js';
 
